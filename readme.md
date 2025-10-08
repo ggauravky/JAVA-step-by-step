@@ -10,6 +10,13 @@ Welcome to my Java learning repository! This is a comprehensive collection of Ja
 
 This repository serves as both a personal learning log and an open-source collaboration space where developers can learn together, share knowledge, and contribute to building better learning materials.
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravky/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggauravky)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_gau_rav/?utm_source=ig_web_button_share_sheet)
+
+Feel free to connect with me on social media for more programming content, updates, and discussions about Java development!
 
 ## 🎯 Learning Goals
 
@@ -31,8 +38,8 @@ This repository serves as both a personal learning log and an open-source collab
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/java-learning.git
-   cd java-learning
+   git clone https://github.com/ggauravky/JAVA-step-by-step.git
+   cd JAVA-step-by-step
    ```
 
 2. **Compile Java files**
