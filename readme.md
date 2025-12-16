@@ -1,160 +1,197 @@
-# ☕ Java Learning Journey
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+# ☕ Java Step-by-Step
+
+### _A Comprehensive Java Learning Repository_
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/ggauravky/JAVA-step-by-step?style=for-the-badge&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/ggauravky/JAVA-step-by-step?style=for-the-badge&logo=github)
+![GitHub Issues](https://img.shields.io/github/issues/ggauravky/JAVA-step-by-step?style=for-the-badge&logo=github)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ggauravky/JAVA-step-by-step?style=for-the-badge&logo=github)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)
 
-## 🌟 Introduction
-
-Welcome to my Java learning repository! This is a comprehensive collection of Java concepts, projects, and exercises that I'm working through on my programming journey. Whether you're a beginner starting with Java or an experienced developer looking to review concepts, this repository aims to be a helpful resource for everyone.
-
-This repository serves as both a personal learning log and an open-source collaboration space where developers can learn together, share knowledge, and contribute to building better learning materials.
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravky/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggauravky)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_gau_rav/?utm_source=ig_web_button_share_sheet)
-
-Feel free to connect with me on social media for more programming content, updates, and discussions about Java development!
-
-## 🎯 Learning Goals
-
-- **Master Java Fundamentals**: Variables, data types, control structures, and basic syntax
-- **Object-Oriented Programming**: Classes, objects, inheritance, polymorphism, and encapsulation
-- **Advanced Java Concepts**: Collections, generics, lambda expressions, and streams
-- **Problem Solving**: Algorithm implementation and data structure manipulation
-- **Best Practices**: Clean code principles, design patterns, and industry standards
-- **Real-World Applications**: Building practical projects and understanding Java ecosystems
-
-## 🚀 How to Run
-
-### Prerequisites
-- **Java Development Kit (JDK)** 11 or higher
-- **IDE** of your choice (IntelliJ IDEA, Eclipse, VS Code)
-- **Git** for version control
-
-### Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ggauravky/JAVA-step-by-step.git
-   cd JAVA-step-by-step
-   ```
-
-2. **Compile Java files**
-   ```bash
-   javac ClassName.java
-   ```
-
-3. **Run the program**
-   ```bash
-   java ClassName
-   ```
-
-4. **For projects with multiple files**
-   ```bash
-   javac -cp . package/ClassName.java
-   java package.ClassName
-   ```
-
-### Using an IDE
-1. Import the project into your preferred IDE
-2. Navigate to the specific folder/file you want to run
-3. Right-click and select "Run" or use the IDE's run configuration
-
-## 🛠️ Projects
-
-### 🔰 Beginner Projects
-- **Calculator**: Basic arithmetic operations with user input
-- **Number Guessing Game**: Interactive game with random number generation
-- **Student Grade Manager**: Simple grade calculation and management system
-- **Bank Account Simulator**: Basic banking operations with OOP concepts
-
-### 🎪 Intermediate Projects
-- **Library Management System**: Book cataloging with file I/O operations
-- **Todo List Application**: Task management with data persistence
-- **Weather App**: API integration and JSON parsing
-- **Chat Application**: Socket programming and multithreading
-
-### 🏆 Advanced Projects
-- **E-commerce Platform**: Full-featured shopping system with database integration
-- **Expense Tracker**: Personal finance management with data visualization
-- **Game Engine**: 2D game development with graphics and sound
-- **Web Scraper**: Data extraction and processing tool
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**!
-
-### How to Contribute
-
-1. **Fork the Project**
-2. **Create your Feature Branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your Changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Contribution Guidelines
-
-- **Code Quality**: Follow Java naming conventions and best practices
-- **Documentation**: Add comments and documentation for complex code
-- **Testing**: Include unit tests where applicable
-- **Examples**: Provide usage examples for new concepts
-- **Learning Resources**: Share helpful tutorials, articles, or videos
-
-### What You Can Contribute
-
-- 🐛 **Bug Fixes**: Help identify and fix issues
-- ✨ **New Examples**: Add more practice problems or explanations
-- 📚 **Documentation**: Improve README files or add code comments
-- 🎨 **Code Optimization**: Enhance existing code for better performance
-- 💡 **Learning Resources**: Share useful links and references
-
-## 📚 Learning Resources & Sources
-
-### 📖 Books
-- **"Effective Java" by Joshua Bloch** - Best practices and advanced concepts
-- **"Java: The Complete Reference" by Herbert Schildt** - Comprehensive guide
-- **"Head First Java" by Kathy Sierra** - Beginner-friendly approach
-
-### 🌐 Online Resources
-- **Oracle Java Documentation** - Official Java documentation
-- **Codecademy Java Course** - Interactive learning platform
-- **Java Code Geeks** - Tutorials and articles
-- **Baeldung** - In-depth Java tutorials
-
-### 🎥 Video Tutorials
-- **Derek Banas Java Tutorial** - YouTube series
-- **Programming with Mosh** - Java programming course
-- **Coding with John** - Java concepts explained simply
-
-### 🏆 Practice Platforms
-- **LeetCode** - Algorithm and data structure problems
-- **HackerRank** - Java-specific challenges
-- **Codewars** - Coding kata and challenges
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggauravky&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ggauravky&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ggauravky&theme=radical)
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who help improve this learning resource
-- Inspired by the amazing Java developer community
-- Special thanks to open-source projects that make learning accessible
+</div>
 
 ---
 
-**Happy Coding!** ☕✨
+## 📖 About
 
-*If you find this repository helpful, please consider giving it a ⭐ star to support the project!*
+A comprehensive Java learning repository following the **Apna College Java Course**. This collection covers Java fundamentals to advanced concepts with practical examples and exercises organized lesson-by-lesson.
+
+## 📚 Course Contents
+
+### 🔰 Fundamentals (L01-L04)
+
+- 📝 **L01**: Introduction to Java
+- 🔢 **L02**: Variables & Data Types
+- 🔀 **L03**: Conditional Statements
+- 🔁 **L04**: Loops & Iterations
+
+### 🎨 Pattern Programming (L05-L06)
+
+- ⭐ **L05**: Basic Patterns (9)
+- 💎 **L06**: Advanced Patterns (5)
+
+### ⚙️ Functions & Methods (L07-L08)
+
+- 📦 **L07**: Function Basics
+- 🧮 **L08**: Practice Questions (10)
+
+### 🎯 Core Concepts (L09-L13)
+
+- ⏱️ **L09**: Time & Space Complexity
+- 📊 **L10**: Arrays Fundamentals
+- 🔲 **L11**: 2D Arrays & Matrices
+- 🔤 **L12**: String Operations
+- 🔨 **L13**: StringBuilder
+
+### 🚀 Advanced Topics (L14-L16)
+
+- 🔢 **L14-L15**: Bit Manipulation
+- 📈 **L16**: Sorting Algorithms
+  - Bubble Sort
+  - Selection Sort
+  - Insertion Sort
+
+### 🏗️ Object-Oriented Programming (L24)
+
+- 🎭 Classes and Objects
+- 🔗 Inheritance Types
+  - Single, Multilevel
+  - Hierarchical, Hybrid
+  - Multiple (via Interfaces)
+- 🔒 Encapsulation & Access Modifiers
+- 🎪 Interfaces
+- 📐 Abstract Classes
+- ⚡ Static Keyword
+
+### 🛡️ Exception Handling (L25)
+
+- ⚠️ Try-Catch Blocks
+- 🐛 Exception Types
+- 🔧 Error Handling Strategies
+
+## 🚀 Getting Started
+
+### 📋 Prerequisites
+
+```bash
+☑️ Java Development Kit (JDK) 8 or higher☑️ IDE: VS Code / IntelliJ IDEA / Eclipse☑️ Git for version control
+```
+
+### ⚡ Quick Start
+
+```bash
+# 1️⃣ Clone the repositorygit clone https://github.com/ggauravky/JAVA-step-by-step.git# 2️⃣ Navigate to any lessoncd "L01 Intro to java"# 3️⃣ Compile and runjavac filename.javajava filename
+```
+
+## 💡 Repository Structure
+
+```
+📦 JAVA-step-by-step ┣ 📂 L01-L04 → Fundamentals ┣ 📂 L05-L06 → Pattern Programming   ┣ 📂 L07-L08 → Functions & Methods ┣ 📂 L09-L13 → Core Concepts ┣ 📂 L14-L16 → Advanced Topics ┣ 📂 L24 → Object-Oriented Programming ┗ 📂 L25 → Exception Handling
+```
+
+### 📌 What's Inside Each Lesson?
+
+✅ Working Java examples demonstrating concepts  
+✅ Practice problems with solutions  
+✅ Algorithm implementations  
+✅ Real-world code patterns
+
+> 💡 **Tip:** Navigate sequentially for structured learning, or jump to specific topics as needed!
+
+## 🤝 Contributing
+
+<div align="center">
+
+### We 💙 Contributions!
+
+</div>
+
+**What you can contribute:**
+
+| Type                 | Description                            |
+| -------------------- | -------------------------------------- |
+| 🐛 **Bug Fixes**     | Help identify and fix issues           |
+| ✨ **New Problems**  | Add more practice questions            |
+| 📝 **Documentation** | Improve code comments and explanations |
+| 🎨 **Optimization**  | Enhance code efficiency                |
+| 💡 **Resources**     | Share helpful learning materials       |
+
+**How to contribute:**
+
+```bash
+# 1. Fork the repository
+# 2. Create your feature branch
+git checkout -b feature/AmazingFeature
+
+# 3. Commit your changes
+git commit -m 'Add some AmazingFeature'
+
+# 4. Push to the branch
+git push origin feature/AmazingFeature
+
+# 5. Open a Pull Request
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravky/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggauravky)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_gau_rav/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ggauravky)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ggauravky)
+
+</div>
+
+---
+
+## 📄 License
+
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+</div>
+
+---
+
+## 🙏 Acknowledgments
+
+<div align="center">
+
+**Special Thanks To:**
+
+🎓 **Apna College** - For the comprehensive Java course structure  
+👥 **Java Community** - For inspiration and support  
+💻 **Contributors** - For making this project better
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Star this repository if you find it helpful!
+
+### 💬 Got Questions? Open an Issue!
+
+### 🤝 Want to Contribute? PRs are Welcome!
+
+<br>
+
+**Made with ❤️ by [Gaurav](https://github.com/ggauravky)**
+
+_Happy Coding!_ ☕✨
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
