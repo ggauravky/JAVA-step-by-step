@@ -1,509 +1,280 @@
-# ☕ Java Step-by-Step
+# ✅ Java Complete Course - FINISHED! 🎉
 
-### _A Comprehensive Java Learning Repository_
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)![GitHub Stars](https://img.shields.io/github/stars/ggauravky/JAVA-step-by-step?style=for-the-badge&logo=github)![GitHub Forks](https://img.shields.io/github/forks/ggauravky/JAVA-step-by-step?style=for-the-badge&logo=github)![GitHub Issues](https://img.shields.io/github/issues/ggauravky/JAVA-step-by-step?style=for-the-badge&logo=github)![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ggauravky/JAVA-step-by-step?style=for-the-badge&logo=github)![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-COMPLETED-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
----
+### 🎓 Complete Java Programming Course
 
-## 📖 About
+**From Zero to Hero - All Lessons Completed**
 
-A comprehensive Java learning repository following the **Apna College Java Course**. This collection covers Java fundamentals to advanced concepts with practical examples and exercises organized lesson-by-lesson.
+[⭐ Star this Repo](https://github.com/ggauravky/JAVA-step-by-step) • [🍴 Fork It](https://github.com/ggauravky/JAVA-step-by-step/fork) • [📝 Report Issue](https://github.com/ggauravky/JAVA-step-by-step/issues)
 
-Perfect for beginners and intermediate learners looking to strengthen their Java programming skills through hands-on practice and real-world examples.
-
-### 🎯 What You'll Learn
-
-- ✅ Java syntax and fundamentals
-- ✅ Object-oriented programming principles
-- ✅ Data structures and algorithms
-- ✅ Exception handling and error management
-- ✅ GUI development with AWT
-- ✅ Problem-solving and coding patterns
+</div>
 
 ---
 
-## 📚 Course Contents
+## 📌 About This Repository
 
-**🔰 Fundamentals (L01-L04)**
+This repository contains a **complete Java programming course** following the **Apna College curriculum**. All lessons from fundamentals to advanced topics have been successfully completed with hands-on code examples and practice problems.
 
-### L01 - Introduction to Java
+**Perfect for:**
 
-- First Java program
-- Java syntax basics
-- Compilation and execution
+- 🎯 Learning Java from scratch
+- 📚 Comprehensive reference material
+- 💡 Understanding OOP concepts
+- 🚀 Building strong programming fundamentals
 
-### L02 - Variables & Data Types
+---
 
-- Variable declaration and initialization
-- Primitive data types
-- Input/Output operations
-- Type casting
+## 🎯 Course Content Overview
 
-### L03 - Conditional Statements
+### 🔰 Core Fundamentals
 
-- if, if-else statements
-- switch-case statements
-- Nested conditions
-- Ternary operators
+| Lesson  | Topic                        | Files             | Status |
+| ------- | ---------------------------- | ----------------- | ------ |
+| **L00** | Revision & Practice          | 8+ files          | ✅     |
+| **L01** | Introduction to Java         | `firstclass.java` | ✅     |
+| **L02** | Variables & I/O              | 5 files           | ✅     |
+| **L03** | Conditional Statements       | 4 files           | ✅     |
+| **L04** | Loops (for, while, do-while) | 5 files           | ✅     |
 
-### L04 - Loops & Iterations
+### 🎨 Pattern Programming
 
-- for loops
-- while and do-while loops
-- Nested loops
-- Loop control statements (break, continue)
+| Lesson  | Topic                | Patterns   | Status |
+| ------- | -------------------- | ---------- | ------ |
+| **L05** | Basic Shape Patterns | 9 patterns | ✅     |
+| **L06** | Advanced Shapes      | 5 patterns | ✅     |
 
-**🎨 Pattern Programming (L05-L06)**
+### ⚙️ Functions & Algorithms
 
-### L05 - Basic Shapes (9 Patterns)
+| Lesson  | Topic                   | Content            | Status |
+| ------- | ----------------------- | ------------------ | ------ |
+| **L07** | Functions & Methods     | Intro + 3 problems | ✅     |
+| **L08** | Practice Questions      | 10 problems        | ✅     |
+| **L09** | Time & Space Complexity | Algorithm analysis | ✅     |
 
-- Rectangle, Triangle, Inverted Triangle
-- Pyramid, Diamond patterns
-- Number and character patterns
+### 📊 Data Structures
 
-### L06 - Advanced Shapes (5 Patterns)
+| Lesson  | Topic              | Files             | Status |
+| ------- | ------------------ | ----------------- | ------ |
+| **L10** | Arrays (1D)        | 2 files           | ✅     |
+| **L11** | 2D Arrays & Matrix | Search algorithms | ✅     |
+| **L12** | Strings            | 4 files           | ✅     |
+| **L13** | StringBuilder      | 2 files           | ✅     |
 
-- Complex nested patterns
-- Hollow patterns
-- Advanced pyramid structures
+### 🔧 Advanced Concepts
 
-**⚙️ Functions & Methods (L07-L08)**
+| Lesson  | Topic                | Content                      | Status |
+| ------- | -------------------- | ---------------------------- | ------ |
+| **L14** | Operators & Keywords | Comprehensive guide          | ✅     |
+| **L15** | Bit Manipulation     | Set, Clear, Update           | ✅     |
+| **L16** | Sorting Algorithms   | Bubble, Selection, Insertion | ✅     |
 
-### L07 - Function Basics
+### 🏗️ Object-Oriented Programming
 
-- Function declaration and definition
-- Parameters and return types
-- Function overloading
-- Scope and lifetime
+| Lesson  | Topic        | Content                                                           | Status |
+| ------- | ------------ | ----------------------------------------------------------------- | ------ |
+| **L24** | Complete OOP | Classes, Inheritance, Interfaces, Abstract, Static, Encapsulation | ✅     |
 
-### L08 - Practice Questions (10 Problems)
+### 🛡️ Exception Handling & GUI
 
-- Comprehensive function problems
-- Real-world applications
-- Algorithm implementations
+| Lesson  | Topic              | Content                                              | Status |
+| ------- | ------------------ | ---------------------------------------------------- | ------ |
+| **L25** | Exception Handling | Try-Catch, Throws, Custom Exceptions, Multithreading | ✅     |
+| **L26** | AWT & GUI          | GUI Programming                                      | ✅     |
 
-**🎯 Core Concepts (L09-L13)**
+---
 
-### L09 - Time & Space Complexity
+## 🚀 Quick Start
 
-- Big O notation
-- Algorithm analysis
-- Optimization techniques
-
-### L10 - Arrays
-
-- Array creation and initialization
-- Array traversal and manipulation
-- Common array problems
-
-### L11 - 2D Arrays & Matrices
-
-- Matrix operations
-- Matrix searching algorithms
-- 2D array manipulation
-
-### L12 - String Operations
-
-- String methods and functions
-- String manipulation
-- Parsing and conversion
-
-### L13 - StringBuilder
-
-- Mutable strings
-- Performance optimization
-- StringBuilder vs String
-
-**🚀 Advanced Topics (L14-L16)**
-
-### L14 - Operations & Bit Manipulation
-
-- Operators (arithmetic, logical, bitwise)
-- Keywords in Java
-- `this` keyword usage
-
-### L15 - Bit Manipulation
-
-- Bit operations (set, clear, update)
-- Bitwise operators
-- Practical bit manipulation problems
-
-### L16 - Sorting Algorithms
-
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Time complexity analysis
-
-**🏗️ Object-Oriented Programming (L24)**
-
-### Core OOP Concepts
-
-- 🎭 **Classes and Objects**: Blueprints and instances
-- 🔒 **Encapsulation**: Data hiding and access modifiers
-- 📦 **Packages**: Code organization
-
-### Inheritance
-
-- **Single Inheritance**: One parent, one child
-- **Multilevel Inheritance**: Grandparent → Parent → Child
-- **Hierarchical Inheritance**: One parent, multiple children
-- **Hybrid Inheritance**: Combination of inheritance types
-- **Multiple Inheritance**: Via interfaces only
-
-### Advanced OOP
-
-- 🎪 **Interfaces**: Multiple inheritance and abstraction
-- 📐 **Abstract Classes**: Partial implementation
-- ⚡ **Static Keyword**: Class-level members
-
-**🛡️ Exception Handling (L25)**
-
-### Exception Handling Concepts
-
-- ⚠️ Try-Catch blocks
-- 🔄 Try-Catch-Finally
-- 🎯 Multiple catch blocks
-- 🚀 `throw` keyword
-- 📢 `throws` keyword
-- 🎨 Creating custom exception classes
-- 🧵 Introduction to Multithreading
-
-**🖼️ GUI Programming (L26)**
-
-### AWT (Abstract Window Toolkit)
-
-- Creating simple AWT frames
-- Event handling mechanisms
-- GUI component interactions
-
-## 🚀 Getting Started
-
-### 📋 Prerequisites
+### Prerequisites
 
 ```bash
-☑️ Java Development Kit (JDK) 8 or higher☑️ IDE: VS Code / IntelliJ IDEA / Eclipse☑️ Git for version control☑️ Basic understanding of programming concepts
+✅ Java JDK 8 or higher
+✅ Any IDE (VS Code / IntelliJ IDEA / Eclipse)
+✅ Basic programming knowledge
 ```
 
-### 🛠️ Installation
-
-1.  **Install Java JDK**
-
-    - Download from [Oracle](https://www.oracle.com/java/technologies/downloads/) or [OpenJDK](https://openjdk.org/)
-    - Verify installation: `java -version`
-
-2.  **Set up your IDE**
-
-    - **VS Code**: Install Java Extension Pack
-    - **IntelliJ IDEA**: Download from [JetBrains](https://www.jetbrains.com/idea/)
-    - **Eclipse**: Download from [Eclipse.org](https://www.eclipse.org/downloads/)
-
-### ⚡ Quick Start
+### Installation & Usage
 
 ```bash
-# 1️⃣ Clone the repositorygit clone https://github.com/ggauravky/JAVA-step-by-step.git# 2️⃣ Navigate to the project directorycd JAVA-step-by-step# 3️⃣ Navigate to any lessoncd "L01 Intro to java"# 4️⃣ Compile and runjavac filename.javajava filename
+# Clone the repository
+git clone https://github.com/ggauravky/JAVA-step-by-step.git
+
+# Navigate to the folder
+cd "JAVA-step-by-step"
+
+# Choose any lesson (example: L10 Array)
+cd "L10 Array"
+
+# Compile and run
+javac filename.java
+java filename
 ```
 
-### 🎓 Learning Path
+---
+
+## 📂 Repository Structure
+
+```
+📦 Java Complete Course
+├── 📁 L00 Revision
+│   ├── Command Line Arguments
+│   ├── Constructor Overloading
+│   ├── Method Overloading
+│   ├── This Keyword & Wrapper Classes
+│   └── 📁 Sub-topics (Control Statements, Arrays, Strings, Operators)
+├── 📁 L01-L04 → Java Basics (Variables, Conditions, Loops)
+├── 📁 L05-L06 → Pattern Programming (14 Patterns)
+├── 📁 L07-L09 → Functions & Complexity
+├── 📁 L10-L13 → Data Structures (Arrays, Strings)
+├── 📁 L14-L16 → Bit Manipulation & Sorting
+├── 📁 L24 → Object-Oriented Programming (Complete)
+├── 📁 L25 → Exception Handling & Multithreading
+└── 📁 L26 → GUI with AWT
+```
+
+---
+
+## 💡 Key Learning Highlights
+
+### 🎯 What's Covered
+
+✨ **Core Java Concepts**
+
+- Variables, Data Types, Type Casting
+- Control Flow (if-else, switch, loops)
+- Arrays (1D & 2D)
+- String manipulation & StringBuilder
+
+🔥 **Advanced Topics**
+
+- Time & Space Complexity Analysis
+- Bit Manipulation Techniques
+- Sorting Algorithms Implementation
+- Exception Handling Mechanisms
+
+🏆 **Object-Oriented Programming**
+
+- Classes & Objects
+- Inheritance (Single, Multilevel, Hierarchical)
+- Interfaces & Abstract Classes
+- Encapsulation & Access Modifiers
+- Static Keyword Usage
+
+🚀 **Practical Skills**
+
+- 14+ Pattern Programming Problems
+- 10+ Function Practice Questions
+- Real-world coding examples
+- GUI Development with AWT
+
+---
+
+## 🎓 Learning Path
 
 ```mermaid
-graph LR    A[Start: L01-L04<br/>Fundamentals] --> B[L05-L06<br/>Patterns]    B --> C[L07-L08<br/>Functions]    C --> D[L09-L13<br/>Core Concepts]    D --> E[L14-L16<br/>Advanced Topics]    E --> F[L24<br/>OOP]    F --> G[L25-L26<br/>Exception & GUI]    G --> H[🎉 Complete!]
+graph LR
+    A[🌱 Start] --> B[📝 L01-L04<br/>Basics]
+    B --> C[🎨 L05-L06<br/>Patterns]
+    C --> D[⚙️ L07-L09<br/>Functions]
+    D --> E[📊 L10-L13<br/>Data Structures]
+    E --> F[🔧 L14-L16<br/>Advanced]
+    F --> G[🏗️ L24<br/>OOP]
+    G --> H[🛡️ L25-L26<br/>Exceptions & GUI]
+    H --> I[🎉 Complete!]
 ```
-
-## 💡 Repository Structure
-
-```
-📦 JAVA-step-by-step┣ 📂 L00 Revision → Quick revision materials┣ 📂 L01-L04 → Fundamentals (Variables, Conditions, Loops)┣ 📂 L05-L06 → Pattern Programming (14 patterns)┣ 📂 L07-L08 → Functions & Methods (10+ problems)┣ 📂 L09-L13 → Core Concepts (Arrays, Strings, Complexity)┣ 📂 L14-L16 → Advanced Topics (Bit Manipulation, Sorting)┣ 📂 L24 → Object-Oriented Programming (OOP)┣ 📂 L25 → Exception Handling & Multithreading┣ 📂 L26 → AWT & GUI Programming┣ 📄 LICENSE → MIT License┗ 📄 README.md → You are here!
-```
-
-### 📌 What's Inside Each Lesson?
-
-✅ Working Java examples
-
-✅ Practice problems with solutions
-
-✅ Algorithm implementations
-
-✅ Real-world code patterns
-
-✅ Code comments & explanations
-
-✅ Best practices demonstrations
-
----
-
-## 📊 Progress Tracker
-
-Track your learning journey:
-
-Lesson
-
-Topic
-
-Status
-
-L00
-
-Revision
-
-⬜
-
-L01-L04
-
-Fundamentals
-
-⬜
-
-L05-L06
-
-Patterns
-
-⬜
-
-L07-L08
-
-Functions
-
-⬜
-
-L09-L13
-
-Core Concepts
-
-⬜
-
-L14-L16
-
-Advanced Topics
-
-⬜
-
-L24
-
-OOP
-
-⬜
-
-L25
-
-Exception Handling
-
-⬜
-
-L26
-
-GUI Programming
-
-⬜
-
-_Mark ✅ as you complete each section!_
-
----
-
-## 🎯 Key Features
-
-Feature
-
-Description
-
-📝 **Structured Learning**
-
-Follow a well-organized curriculum from basics to advanced
-
-💻 **Hands-On Code**
-
-100+ working examples and practice problems
-
-🎓 **Course Aligned**
-
-Based on Apna College's popular Java course
-
-🔄 **Regular Updates**
-
-Continuously improved with new content
-
-🆓 **Free & Open Source**
-
-MIT licensed - use freely for learning
-
-🤝 **Community Driven**
-
-Contributions and improvements welcome
-
----
-
----
-
-## 💡 Learning Tips
-
-**📚 For Beginners**
-
-- Start from L01 and follow sequentially
-- Practice each example thoroughly
-- Complete all exercises before moving forward
-- Don't skip the fundamentals
-- Join the Java community for help
-
-**🚀 For Intermediate Learners**
-
-- Jump to topics you need to strengthen
-- Focus on OOP concepts (L24)
-- Practice algorithmic problems
-- Implement your own variations
-- Contribute to the repository
-
-**🎯 Study Strategy**
-
-1.  **Understand**: Read the code and comments
-2.  **Practice**: Type the code yourself (don't copy-paste)
-3.  **Experiment**: Modify and test variations
-4.  **Challenge**: Try solving problems independently
-5.  **Review**: Revisit concepts periodically
 
 ---
 
 ## 🤝 Contributing
 
-### We 💙 Contributions!
+Contributions are welcome! Here's how you can help:
 
-**What you can contribute:**
+1. 🍴 Fork the repository
+2. 🌿 Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. ✍️ Commit your changes (`git commit -m 'Add some feature'`)
+4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
+5. 🔃 Open a Pull Request
 
-Type
+**Contribution Ideas:**
 
-Description
-
-🐛 **Bug Fixes**
-
-Help identify and fix issues
-
-✨ **New Problems**
-
-Add more practice questions
-
-📝 **Documentation**
-
-Improve code comments and explanations
-
-🎨 **Optimization**
-
-Enhance code efficiency
-
-💡 **Resources**
-
-Share helpful learning materials
-
-### 📝 How to Contribute
-
-1.  **Fork** the repository
-2.  **Clone** your fork: `git clone https://github.com/YOUR_USERNAME/JAVA-step-by-step.git`
-3.  **Create** a new branch: `git checkout -b feature/AmazingFeature`
-4.  **Make** your changes and commit: `git commit -m 'Add some AmazingFeature'`
-5.  **Push** to your fork: `git push origin feature/AmazingFeature`
-6.  **Open** a Pull Request
-
-### ✅ Contribution Guidelines
-
-- Write clean, well-commented code
-- Follow Java naming conventions
-- Test your code before submitting
-- Update README if adding new sections
-- Be respectful and constructive
+- 🐛 Fix bugs or typos
+- ✨ Add more practice problems
+- 📝 Improve documentation
+- 💡 Share alternative solutions
 
 ---
 
-## 📈 Statistics
+## 📚 Useful Resources
 
-![Repository Stats](https://github-readme-stats.vercel.app/api?username=ggauravky&repo=JAVA-step-by-step&show_icons=true&theme=radical)
+### Official Documentation
 
----
+- [☕ Oracle Java Docs](https://docs.oracle.com/javase/tutorial/)
+- [📖 Java SE API](https://docs.oracle.com/en/java/javase/17/docs/api/)
 
-## 🔗 Useful Resources
+### Learning Platforms
 
-### 📖 Documentation
+- [🎥 Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
+- [💻 GeeksforGeeks](https://www.geeksforgeeks.org/java/)
+- [📚 W3Schools Java](https://www.w3schools.com/java/)
 
-- [Official Java Documentation](https://docs.oracle.com/javase/tutorial/)
-- [Java API Specification](https://docs.oracle.com/en/java/javase/17/docs/api/)
-- [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/)
+### Practice Coding
 
-### 🎓 Learning Platforms
-
-- [Apna College YouTube Channel](https://www.youtube.com/@ApnaCollegeOfficial)
-- [GeeksforGeeks Java](https://www.geeksforgeeks.org/java/)
-- [W3Schools Java](https://www.w3schools.com/java/)
-- [Programiz Java](https://www.programiz.com/java-programming)
-
-### 💻 Practice Platforms
-
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/domains/java)
-- [Codewars](https://www.codewars.com/)
-- [CodeChef](https://www.codechef.com/)
-
----
-
-## 🐛 Found an Issue?
-
-If you encounter any problems or have suggestions:
-
-1.  Check if the issue already exists
-2.  Create a [new issue](https://github.com/ggauravky/JAVA-step-by-step/issues/new)
-3.  Provide clear description and steps to reproduce
-4.  Include screenshots if applicable
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravky/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggauravky)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_gau_rav/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ggauravky)[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ggauravky)
+- [🎯 LeetCode](https://leetcode.com/)
+- [💪 HackerRank](https://www.hackerrank.com/domains/java)
+- [🏆 CodeChef](https://www.codechef.com/)
 
 ---
 
 ## 📄 License
 
+This project is licensed under the **MIT License** - feel free to use for learning and teaching!
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
+
+## 🌟 Show Your Support
+
+If this repository helped you learn Java:
+
+⭐ **Star** this repository
+🍴 **Fork** for your reference
+📢 **Share** with fellow learners
+🤝 **Contribute** to improve it
 
 ---
 
-## 🙏 Acknowledgments
+## 🔗 Connect With Me
 
-**Special Thanks To:**
+<div align="center">
 
-🎓 **Apna College** - For the comprehensive Java course structure and excellent teaching  
-💻 **All Contributors** - For making this project better every day  
-👥 **Java Community** - For continuous support and inspiration  
-🌟 **You** - For choosing this repository to learn Java!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravky/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggauravky)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_gau_rav/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ggauravky)
 
----
-
-## 📞 Support
-
-Need help? Reach out through:
-
-💬 [Open an Issue](https://github.com/ggauravky/JAVA-step-by-step/issues)  
-📧 [Email Me](mailto:your.email@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/gauravky/)
+</div>
 
 ---
 
-## ⭐ Show Your Support
+## 💬 Support
 
-If this repository helped you learn Java, please consider:
+Need help or have questions?
 
-⭐ **Starring** this repository  
-🍴 **Forking** for your own learning  
-📢 **Sharing** with fellow learners  
-🤝 **Contributing** to make it better
+- 💡 [Open an Issue](https://github.com/ggauravky/JAVA-step-by-step/issues)
+- 📧 [Email Me](mailto:your.email@example.com)
+- 💼 [LinkedIn DM](https://www.linkedin.com/in/gauravky/)
 
 ---
 
-### 🌟 Star this repository if you find it helpful!
+<div align="center">
 
-### 💬 Got Questions? Open an Issue!
-
-### 🤝 Want to Contribute? PRs are Welcome!
+### 🎉 Course Completed Successfully! 🎉
 
 **Made with ❤️ and ☕ by [Gaurav Kumar](https://github.com/ggauravky)**
 
@@ -511,8 +282,8 @@ _Happy Coding! Keep Learning, Keep Growing!_ 💻✨
 
 ---
 
-### 📊 Visitor Count
-
 ![Visitor Count](https://profile-counter.glitch.me/ggauravky-JAVA-step-by-step/count.svg)
 
-![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+**⭐ If this helped you, please star this repository! ⭐**
+
+</div>
